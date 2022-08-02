@@ -1,4 +1,4 @@
-Fix the lag while typing in the search bar
+Imama Fix the lag while typing in the search bar
 
 * Now the logic for filtering the search results is debounced which gets rid of
 * the noticeable lag that appeared while typing in the search bar.
